@@ -1,0 +1,24 @@
+# Node.js 依赖目录（不需要提交）
+node_modules/
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 环境变量（如 .env 存放敏感信息）
+.env
+
+# VS Code 编辑器配置（可选）
+.vscode/
+
+# macOS 和 Windows 系统文件
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# 部署平台临时文件（可选）
+*.zip
+*.tar
+dist/
+build/
